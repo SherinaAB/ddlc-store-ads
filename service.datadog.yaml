@@ -1,0 +1,10 @@
+schema-version: v2.2
+dd-service: store-ads
+team: advertising
+application: storedog
+description: the microservice for storedog's ad banners
+tags: []
+integrations:
+ pagerduty:
+   service-url: https://datadog.pagerduty.com/service-directory/XXXXXXX
+External Resources (Optional)
